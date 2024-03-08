@@ -1,2 +1,2 @@
-# estagio_target_sistemas
+# Estagio Target Sistemas
 Repositório para Target Sistemas
